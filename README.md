@@ -40,9 +40,6 @@ nano /var/www/html/index.html
 <img width="987" height="574" alt="despliegue actividad 1" src="https://github.com/user-attachments/assets/306d1d8a-dcb4-4d33-b9cb-1243c74c926e" />
 
 
-### Captura — Edición con nano dentro del contenedor
-
-> 📸 *Pegar captura de pantalla aquí*
 
 ---
 
@@ -70,9 +67,8 @@ docker run -d --name wordpress \
     wordpress:4.9.8
 ```
 
-### Captura — WordPress funcionando
 
-> 📸 *Pegar captura de pantalla aquí*
+<img width="1896" height="863" alt="Capturawordpress" src="https://github.com/user-attachments/assets/cf7b6dd6-1de9-4892-aa6c-cc37b97c7f91" />
 
 ---
 
@@ -111,13 +107,11 @@ docker run -d --name wordpress \
 | **Dependencia de herramientas** | El script asume que `bash` y `docker` están instalados y en el PATH. |
 | **Solución** | Usar Docker Compose, que es portable entre sistemas operativos. |
 
-### Captura — Red mi-network creada
-
-> 📸 *Pegar captura de pantalla aquí*
 
 ### Captura — WordPress funcionando
 
-> 📸 *Pegar captura de pantalla aquí*
+<img width="1488" height="891" alt="Captura3wordpress" src="https://github.com/user-attachments/assets/0fc40ab9-03af-418a-888e-4b869b8d1cf2" />
+
 
 ---
 
@@ -143,8 +137,8 @@ docker compose up -d
 
 ### Captura — Página PHP funcionando (puerto 8083)
 
-> 📸 *Pegar captura de pantalla aquí*
+<img width="982" height="212" alt="Capturaejercicio7" src="https://github.com/user-attachments/assets/638b1f72-f3ac-43ee-b600-704bca69a805" />
 
 ### Captura — phpMyAdmin funcionando (puerto 8084)
 
-> 📸 *Pegar captura de pantalla aquí*
+<img width="1908" height="575" alt="Captura72" src="https://github.com/user-attachments/assets/06d524c5-6702-45c7-80c5-aa27f941f822" />
