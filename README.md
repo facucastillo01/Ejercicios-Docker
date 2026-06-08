@@ -3,7 +3,7 @@
 
 **Alumno:** Facundo Nahuel Castillo Jerez  
 **Fecha:** 08/06/2026  
-**Materia:** Despliegue de Aplicaciones en la Nube (DAD)  
+**Materia:** Diseño y Arquitectura de Despliegue (DAD)  
 **Repositorio base:** [docker-tutorial de joseluisgs](https://github.com/joseluisgs/docker-tutorial/tree/master)
 
 ---
